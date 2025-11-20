@@ -1,0 +1,182 @@
+{"products":[
+  {
+    "id": 1,
+    "name": "Lily Stargazer",
+    "description": "Beautiful Lily Stargazer seeds for your garden.",
+    "imageSrc": "https://raw.githubusercontent.com/camiouna/Projet_framework/main/images/Lily%20Stargazer.png",
+    "price": 4.99,
+    "bestSelling": true,
+    "category": "seeds"
+  },
+  {
+    "id": 2,
+    "name": "Strawberry",
+    "description": "Fresh strawberry seeds for a sweet harvest.",
+    "imageSrc": "https://raw.githubusercontent.com/camiouna/Projet_framework/main/images/Strawberry.png",
+    "price": 3.49,
+    "bestSelling": false,
+    "category": "seeds"
+  },
+  {
+    "id": 3,
+    "name": "fig",
+    "description": "Premium fig seeds for a healthy garden.",
+    "imageSrc": "https://raw.githubusercontent.com/camiouna/Projet_framework/main/images/fig.jpg",
+    "price": 5.99,
+    "bestSelling": false,
+    "category": "seeds"
+  },
+  {
+    "id": 4,
+    "name": "lady fern",
+    "description": "Elegant lady fern seeds for lush greenery.",
+    "imageSrc": "https://raw.githubusercontent.com/camiouna/Projet_framework/main/images/lady%20fern.png",
+    "price": 4.49,
+    "bestSelling": true,
+    "category": "seeds"
+  },
+  {
+    "id": 5,
+    "name": "magnolia",
+    "description": "Magnolia seeds for stunning blooms.",
+    "imageSrc": "https://raw.githubusercontent.com/camiouna/Projet_framework/main/images/magnolia.jpg",
+    "price": 6.99,
+    "bestSelling": false,
+    "category": "seeds"
+  },
+  {
+    "id": 6,
+    "name": "bulldozer",
+    "description": "Heavy-duty bulldozer for large-scale projects.",
+    "imageSrc": "https://raw.githubusercontent.com/camiouna/Projet_framework/main/images/large_Machines/bulldoser.png",
+    "price": 150000,
+    "bestSelling": true,
+    "category": "large_Machines"
+  },
+  {
+    "id": 7,
+    "name": "haul truck",
+    "description": "Powerful haul truck for transporting materials.",
+    "imageSrc": "https://raw.githubusercontent.com/camiouna/Projet_framework/main/images/large_Machines/haul%20truck.png",
+    "price": 200000,
+    "bestSelling": false,
+    "category": "large_Machines"
+  },
+  {
+    "id": 8,
+    "name": "mini excavator",
+    "description": "Compact excavator for versatile digging tasks.",
+    "imageSrc": "https://raw.githubusercontent.com/camiouna/Projet_framework/main/images/large_Machines/mini%20excavator.png",
+    "price": 75000,
+    "bestSelling": true,
+    "category": "large_Machines"
+  },
+  {
+    "id": 9,
+    "name": "rotary drill",
+    "description": "High-performance rotary drill for mining operations.",
+    "imageSrc": "https://raw.githubusercontent.com/camiouna/Projet_framework/main/images/large_Machines/rotary%20drill.png",
+    "price": 120000,
+    "bestSelling": false,
+    "category": "large_Machines"
+  },
+  {
+    "id": 10,
+    "name": "track loaders",
+    "description": "Track loaders for efficient material handling.",
+    "imageSrc": "https://raw.githubusercontent.com/camiouna/Projet_framework/main/images/large_Machines/track%20loaders.png",
+    "price": 95000,
+    "bestSelling": true,
+    "category": "large_Machines"
+  },
+  {
+    "id": 11,
+    "name": "Arbequina Olive",
+    "description": "Arbequina Olive is a spanish rare variety that only grows in tropical environments",
+    "imageSrc": "https://raw.githubusercontent.com/camiouna/Projet_framework/main/images/ready-to-plant/5V89cZDa.jpg",
+    "price": 12.99,
+    "bestSelling": false,
+    "category": "ready-to-plant"
+  },
+  {
+    "id": 12,
+    "name": "Kalamata Olive",
+    "description": "Fast-growing Tunisian variety with the highest Oil-per_Kilo ratio",
+    "imageSrc": "https://raw.githubusercontent.com/camiouna/Projet_framework/main/images/ready-to-plant/OCfKr9xI.jpg",
+    "price": 14.99,
+    "bestSelling": true,
+    "category": "ready-to-plant"
+  },
+  {
+    "id": 13,
+    "name": "Peach",
+    "description": "Fine peach with very good production and high resistance to climate",
+    "imageSrc": "https://raw.githubusercontent.com/camiouna/Projet_framework/main/images/ready-to-plant/j0mN2Q1T.jpg",
+    "price": 11.49,
+    "bestSelling": false,
+    "category": "ready-to-plant"
+  },
+  {
+    "id": 14,
+    "name": "Cherry",
+    "description": "Tropical Cherry tree straight from thailand",
+    "imageSrc": "https://raw.githubusercontent.com/camiouna/Projet_framework/main/images/ready-to-plant/jAS6Tnfz.jpg",
+    "price": 13.99,
+    "bestSelling": true,
+    "category": "ready-to-plant"
+  },
+  {
+    "id": 15,
+    "name": "Orange",
+    "description": "Highly Resistant Orange Tree, Viable for 4 seasons",
+    "imageSrc": "https://raw.githubusercontent.com/camiouna/Projet_framework/main/images/ready-to-plant/tmYa4b3i.jpg",
+    "price": 15.49,
+    "bestSelling": false,
+    "category": "ready-to-plant"
+  },
+  {
+    "id": 16,
+    "name": "Garden Fork",
+    "description": "Durable garden fork for soil preparation.",
+    "imageSrc": "https://raw.githubusercontent.com/camiouna/Projet_framework/main/images/tools/forka.jpg",
+    "price": 9.99,
+    "bestSelling": true,
+    "category": "tools"
+  },
+  {
+    "id": 17,
+    "name": "Compact Fork",
+    "description": "Compact fork for small gardening tasks.",
+    "imageSrc": "https://raw.githubusercontent.com/camiouna/Projet_framework/main/images/tools/mini%20forka.jpg",
+    "price": 7.49,
+    "bestSelling": false,
+    "category": "tools"
+  },
+  {
+    "id": 18,
+    "name": "Rake",
+    "description": "Reliable rake for garden maintenance.",
+    "imageSrc": "https://raw.githubusercontent.com/camiouna/Projet_framework/main/images/tools/rato.jpg",
+    "price": 8.99,
+    "bestSelling": true,
+    "category": "tools"
+  },
+  {
+    "id": 19,
+    "name": "shovel",
+    "description": "Sturdy shovel for digging and planting.",
+    "imageSrc": "https://raw.githubusercontent.com/camiouna/Projet_framework/main/images/tools/shovel.jpg",
+    "price": 10.99,
+    "bestSelling": false,
+    "category": "tools"
+  },
+  {
+    "id": 20,
+    "name": "Vintage Tool",
+    "description": "Vintage-style garden tool for collectors.",
+    "imageSrc": "https://raw.githubusercontent.com/camiouna/Projet_framework/main/images/tools/soviet.jpg",
+    "price": 12.49,
+    "bestSelling": true,
+    "category": "tools"
+  }
+]}
